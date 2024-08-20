@@ -1,0 +1,406 @@
+
+
+[2024-08-15 16:37:13] Client version: 1721172922
+[2024-08-15 16:37:13] Load failed: H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\libraryfolders.vdf.
+[2024-08-15 16:37:13] Load failed: H:\Python Programs\steamworkshopdownloader-master\steamcmd\config\libraryfolders.vdf.
+[2024-08-15 16:37:13] Steam library folders configuration will be reset.
+[2024-08-15 16:37:13] No install folder configuration files found.
+[2024-08-15 16:37:14] Loaded 0 apps from install folder "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\appmanifest_*.acf".
+[2024-08-15 16:37:14] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-08-15 16:37:23] AppID 573090 scheduler update : Priority First, not played for 1723729043 seconds, update disabled for 0 seconds
+[2024-08-15 16:37:23] AppID 573090 update changed : Running Update,
+[2024-08-15 16:37:23] AppID 573090 update changed : Running Update,Reconfiguring,
+[2024-08-15 16:37:24] Enabling local content cache at '::ffff:a46:4646' from lookup of lancache.steamcontent.com.
+[2024-08-15 16:37:24] Adding cache type 'LANCache' on host '::ffff:a46:4646'
+[2024-08-15 16:37:24] Got 25 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 192 / Launcher 3)
+[2024-08-15 16:37:24] Moving to source priority class '6'
+[2024-08-15 16:37:24] Created download interface of type 'SteamCache' (7) to host cache2-iev-giga.steamcontent.com (cache2-iev-giga.steamcontent.com)
+[2024-08-15 16:37:24] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-08-15 16:37:24] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-08-15 16:37:25] HTTP/2 available
+[2024-08-15 16:37:25] Created ipv4-only http client
+[2024-08-15 16:37:25] HTTP (SteamCache,182) - cache2-iev-giga.steamcontent.com (10.70.70.70:80 / 10.70.70.70:80, host: cache2-iev-giga.steamcontent.com): ::ffff:a46:4646/depot/573090/manifest/3332640393217921284/5/15371322377570199350 - received 502 (Bad Gateway) HTTP response
+[2024-08-15 16:37:25] HTTP (SteamCache,182) - cache2-iev-giga.steamcontent.com (10.70.70.70:80 / 10.70.70.70:80, host: cache2-iev-giga.steamcontent.com): Closing connection
+[2024-08-15 16:37:25] Stopping use of cache type 'LANCache' on host '::ffff:a46:4646' for manifest requests due to errors
+[2024-08-15 16:37:25] stats: (SteamCache, 182) cache2-iev-giga.steamcontent.com: 0 Bytes, 0 sec (0.00 Mbps). 0 Hits / 0 Misses (0 %, 0 % bytes)
+[2024-08-15 16:37:25] Created download interface of type 'SteamCache' (7) to host cache1-iev-giga.steamcontent.com (cache1-iev-giga.steamcontent.com)
+[2024-08-15 16:37:26] HTTPS (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Negotiated HTTP/2
+[2024-08-15 16:37:26] HTTP/2 (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): cache4-iev-giga.steamcontent.com/depot/573090/manifest/3332640393217921284/5/15371322377570199350 - received 200 (OK) HTTP response
+[2024-08-15 16:37:26] AppID 573090 update changed : Running Update,
+[2024-08-15 16:37:26] AppID 573090 update changed : Running Update,Preallocating,
+[2024-08-15 16:37:26] AppID 573090 preallocated 0 files (0 MB) 
+[2024-08-15 16:37:26] AppID 573090 update changed : Running Update,
+[2024-08-15 16:37:26] AppID 573090 update started : download 0/30256, store 0/0, reuse 0/0, delta 0/0, stage 0/49759 
+[2024-08-15 16:37:26] AppID 573090 update changed : Running Update,Downloading,Staging,
+[2024-08-15 16:37:26] Downloading 2 chunks from depot 573090
+[2024-08-15 16:37:26] AppID 573090 update changed : Running Update,
+[2024-08-15 16:37:26] AppID 573090 update changed : Running Update,Committing,
+[2024-08-15 16:37:26] AppID 573090 starting commit from "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/downloads/573090" to "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/content/573090" : 3 updated, 0 moved, 0 deleted files
+[2024-08-15 16:37:26] AppID 573090 update changed : Running Update,
+[2024-08-15 16:37:26] AppID 573090 update changed : None
+[2024-08-15 16:37:26] AppID 573090 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-08-15 16:37:27] HTTP (SteamCache,74) - cache1-iev-giga.steamcontent.com (10.70.70.70:80 / 10.70.70.70:80, host: cache1-iev-giga.steamcontent.com): Closing connection
+[2024-08-15 16:37:27] HTTP/2 (SteamCache,394) - cache4-iev-giga.steamcontent.com (91.223.19.33:443 / 91.223.19.33:443, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-08-15 16:37:27] HTTP (SteamCache,392) - cache1-iev-klnk.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache1-iev-klnk.steamcontent.com): Closing connection
+
+
+[2024-08-15 16:46:10] Client version: 1721172922
+[2024-08-15 16:46:10] Loaded Steam library folders configuration: H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\libraryfolders.vdf
+[2024-08-15 16:46:11] Loaded 0 apps from install folder "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\appmanifest_*.acf".
+[2024-08-15 16:46:11] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-08-15 16:46:13] AppID 573090 scheduler update : Priority First, not played for 1723729573 seconds, update disabled for 0 seconds
+[2024-08-15 16:46:13] AppID 573090 update changed : Running Update,
+[2024-08-15 16:46:13] AppID 573090 update changed : Running Update,Reconfiguring,
+[2024-08-15 16:46:13] AppID 573090 update changed : Running Update,
+[2024-08-15 16:46:13] AppID 573090 update changed : Running Update,Validating,
+[2024-08-15 16:46:13] Validating active workshop item 1800753475 ...
+[2024-08-15 16:46:13] Validation: missing file "1800753475\vehicle.xml"
+[2024-08-15 16:46:13] Validation: missing file "1800753475\workshop_preview.png"
+[2024-08-15 16:46:13] Validation: quick scan in "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/content/573090" found 2/2 mismatching files (0 seconds).
+[2024-08-15 16:46:13] AppID 573090 update changed : Running Update,
+[2024-08-15 16:46:13] AppID 573090 update changed : Running Update,Preallocating,
+[2024-08-15 16:46:13] AppID 573090 preallocated 0 files (0 MB) 
+[2024-08-15 16:46:13] AppID 573090 update changed : Running Update,
+[2024-08-15 16:46:13] AppID 573090 update started : download 0/30256, store 0/0, reuse 0/0, delta 0/0, stage 0/49759 
+[2024-08-15 16:46:13] AppID 573090 update changed : Running Update,Downloading,Staging,
+[2024-08-15 16:46:13] Enabling local content cache at '::ffff:a46:4646' from lookup of lancache.steamcontent.com.
+[2024-08-15 16:46:13] Adding cache type 'LANCache' on host '::ffff:a46:4646'
+[2024-08-15 16:46:13] Got 25 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 192 / Launcher 3)
+[2024-08-15 16:46:13] Moving to source priority class '6'
+[2024-08-15 16:46:13] Created download interface of type 'SteamCache' (7) to host cache2-iev-giga.steamcontent.com (cache2-iev-giga.steamcontent.com)
+[2024-08-15 16:46:13] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-08-15 16:46:13] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-08-15 16:46:13] Downloading 2 chunks from depot 573090
+[2024-08-15 16:46:13] HTTP/2 available
+[2024-08-15 16:46:13] Created ipv4-only http client
+[2024-08-15 16:46:14] AppID 573090 update changed : Running Update,
+[2024-08-15 16:46:14] AppID 573090 update changed : Running Update,Committing,
+[2024-08-15 16:46:14] AppID 573090 starting commit from "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/downloads/573090" to "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/content/573090" : 2 updated, 0 moved, 0 deleted files
+[2024-08-15 16:46:14] AppID 573090 update changed : Running Update,
+[2024-08-15 16:46:14] AppID 573090 update changed : None
+[2024-08-15 16:46:14] AppID 573090 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-08-15 16:46:14] HTTP (SteamCache,394) - cache4-iev-giga.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-08-15 16:46:14] HTTP (SteamCache,392) - cache1-iev-klnk.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache1-iev-klnk.steamcontent.com): Closing connection
+[2024-08-15 16:46:14] HTTP (SteamCache,182) - cache2-iev-giga.steamcontent.com (10.70.70.70:80 / 10.70.70.70:80, host: cache2-iev-giga.steamcontent.com): Closing connection
+
+
+[2024-08-15 16:52:35] Client version: 1721172922
+[2024-08-15 16:52:35] Loaded Steam library folders configuration: H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\libraryfolders.vdf
+[2024-08-15 16:52:36] Loaded 0 apps from install folder "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\appmanifest_*.acf".
+[2024-08-15 16:52:36] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-08-15 16:52:38] AppID 573090 scheduler update : Priority First, not played for 1723729958 seconds, update disabled for 0 seconds
+[2024-08-15 16:52:38] AppID 573090 update changed : Running Update,
+[2024-08-15 16:52:38] AppID 573090 update changed : Running Update,Reconfiguring,
+[2024-08-15 16:52:38] AppID 573090 update changed : Running Update,
+[2024-08-15 16:52:38] AppID 573090 update changed : Running Update,Validating,
+[2024-08-15 16:52:38] Validating active workshop item 1800753475 ...
+[2024-08-15 16:52:38] AppID 573090 update changed : Running Update,
+[2024-08-15 16:52:38] AppID 573090 has no changes, 1 active: 573090 (3332640393217921284), 1 target: 573090 (3332640393217921284),
+[2024-08-15 16:52:38] AppID 573090 update changed : Running Update,Staging,
+[2024-08-15 16:52:38] AppID 573090 update changed : Running Update,
+[2024-08-15 16:52:38] AppID 573090 update changed : Running Update,Committing,
+[2024-08-15 16:52:38] AppID 573090 starting commit from "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/downloads/573090" to "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/content/573090" : 0 updated, 0 moved, 0 deleted files
+[2024-08-15 16:52:38] AppID 573090 update changed : Running Update,
+[2024-08-15 16:52:38] AppID 573090 update changed : None
+[2024-08-15 16:52:38] AppID 573090 scheduler finished : removed from schedule (result No Error, state 0x0) 
+
+
+[2024-08-15 16:55:24] Client version: 1721172922
+[2024-08-15 16:55:24] Loaded Steam library folders configuration: H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\libraryfolders.vdf
+[2024-08-15 16:55:25] Loaded 0 apps from install folder "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\appmanifest_*.acf".
+[2024-08-15 16:55:25] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-08-15 16:55:27] AppID 573090 scheduler update : Priority First, not played for 1723730127 seconds, update disabled for 0 seconds
+[2024-08-15 16:55:27] AppID 573090 update changed : Running Update,
+[2024-08-15 16:55:27] AppID 573090 update changed : Running Update,Reconfiguring,
+[2024-08-15 16:55:27] AppID 573090 update changed : Running Update,
+[2024-08-15 16:55:27] AppID 573090 update changed : Running Update,Validating,
+[2024-08-15 16:55:27] Validating active workshop item 1800753475 ...
+[2024-08-15 16:55:27] Validation: missing file "1800753475\vehicle.xml"
+[2024-08-15 16:55:27] Validation: missing file "1800753475\workshop_preview.png"
+[2024-08-15 16:55:27] Validation: quick scan in "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/content/573090" found 2/2 mismatching files (0 seconds).
+[2024-08-15 16:55:27] AppID 573090 update changed : Running Update,
+[2024-08-15 16:55:27] AppID 573090 update changed : Running Update,Preallocating,
+[2024-08-15 16:55:27] AppID 573090 preallocated 0 files (0 MB) 
+[2024-08-15 16:55:27] AppID 573090 update changed : Running Update,
+[2024-08-15 16:55:27] AppID 573090 update started : download 0/30256, store 0/0, reuse 0/0, delta 0/0, stage 0/49759 
+[2024-08-15 16:55:27] AppID 573090 update changed : Running Update,Downloading,Staging,
+[2024-08-15 16:55:27] Enabling local content cache at '::ffff:a46:4646' from lookup of lancache.steamcontent.com.
+[2024-08-15 16:55:27] Adding cache type 'LANCache' on host '::ffff:a46:4646'
+[2024-08-15 16:55:27] Got 26 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 192 / Launcher 3)
+[2024-08-15 16:55:27] Moving to source priority class '6'
+[2024-08-15 16:55:27] Created download interface of type 'SteamCache' (7) to host cache2-iev-giga.steamcontent.com (cache2-iev-giga.steamcontent.com)
+[2024-08-15 16:55:27] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-08-15 16:55:27] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-08-15 16:55:27] Downloading 2 chunks from depot 573090
+[2024-08-15 16:55:27] HTTP/2 available
+[2024-08-15 16:55:27] Created ipv4-only http client
+[2024-08-15 16:55:28] AppID 573090 update changed : Running Update,
+[2024-08-15 16:55:28] AppID 573090 update changed : Running Update,Committing,
+[2024-08-15 16:55:28] AppID 573090 starting commit from "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/downloads/573090" to "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/content/573090" : 2 updated, 0 moved, 0 deleted files
+[2024-08-15 16:55:28] AppID 573090 update changed : Running Update,
+[2024-08-15 16:55:28] AppID 573090 update changed : None
+[2024-08-15 16:55:28] AppID 573090 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-08-15 16:55:28] HTTP (SteamCache,394) - cache4-iev-giga.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-08-15 16:55:28] HTTP (SteamCache,392) - cache1-iev-klnk.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache1-iev-klnk.steamcontent.com): Closing connection
+[2024-08-15 16:55:28] HTTP (SteamCache,182) - cache2-iev-giga.steamcontent.com (10.70.70.70:80 / 10.70.70.70:80, host: cache2-iev-giga.steamcontent.com): Closing connection
+
+
+[2024-08-15 17:02:17] Client version: 1721172922
+[2024-08-15 17:02:17] Loaded Steam library folders configuration: H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\libraryfolders.vdf
+[2024-08-15 17:02:19] Loaded 0 apps from install folder "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\appmanifest_*.acf".
+[2024-08-15 17:02:19] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-08-15 17:02:20] AppID 573090 scheduler update : Priority First, not played for 1723730540 seconds, update disabled for 0 seconds
+[2024-08-15 17:02:20] AppID 573090 update changed : Running Update,
+[2024-08-15 17:02:20] AppID 573090 update changed : Running Update,Reconfiguring,
+[2024-08-15 17:02:21] AppID 573090 update changed : Running Update,
+[2024-08-15 17:02:21] AppID 573090 update changed : Running Update,Validating,
+[2024-08-15 17:02:21] Validating active workshop item 1800753475 ...
+[2024-08-15 17:02:21] Validation: missing file "1800753475\vehicle.xml"
+[2024-08-15 17:02:21] Validation: missing file "1800753475\workshop_preview.png"
+[2024-08-15 17:02:21] Validation: quick scan in "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/content/573090" found 2/2 mismatching files (0 seconds).
+[2024-08-15 17:02:21] AppID 573090 update changed : Running Update,
+[2024-08-15 17:02:21] AppID 573090 update changed : Running Update,Preallocating,
+[2024-08-15 17:02:21] AppID 573090 preallocated 0 files (0 MB) 
+[2024-08-15 17:02:21] AppID 573090 update changed : Running Update,
+[2024-08-15 17:02:21] AppID 573090 update started : download 0/30256, store 0/0, reuse 0/0, delta 0/0, stage 0/49759 
+[2024-08-15 17:02:21] AppID 573090 update changed : Running Update,Downloading,Staging,
+[2024-08-15 17:02:21] Enabling local content cache at '::ffff:a46:4646' from lookup of lancache.steamcontent.com.
+[2024-08-15 17:02:21] Adding cache type 'LANCache' on host '::ffff:a46:4646'
+[2024-08-15 17:02:21] Got 26 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 192 / Launcher 3)
+[2024-08-15 17:02:21] Moving to source priority class '6'
+[2024-08-15 17:02:21] Created download interface of type 'SteamCache' (7) to host cache2-iev-giga.steamcontent.com (cache2-iev-giga.steamcontent.com)
+[2024-08-15 17:02:21] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-08-15 17:02:21] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-08-15 17:02:21] Downloading 2 chunks from depot 573090
+[2024-08-15 17:02:21] HTTP/2 available
+[2024-08-15 17:02:21] Created ipv4-only http client
+[2024-08-15 17:02:21] AppID 573090 update changed : Running Update,
+[2024-08-15 17:02:21] AppID 573090 update changed : Running Update,Committing,
+[2024-08-15 17:02:21] AppID 573090 starting commit from "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/downloads/573090" to "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/content/573090" : 2 updated, 0 moved, 0 deleted files
+[2024-08-15 17:02:21] AppID 573090 update changed : Running Update,
+[2024-08-15 17:02:21] AppID 573090 update changed : None
+[2024-08-15 17:02:21] AppID 573090 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-08-15 17:02:21] HTTP (SteamCache,394) - cache4-iev-giga.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-08-15 17:02:21] HTTP (SteamCache,392) - cache1-iev-klnk.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache1-iev-klnk.steamcontent.com): Closing connection
+[2024-08-15 17:02:21] HTTP (SteamCache,182) - cache2-iev-giga.steamcontent.com (10.70.70.70:80 / 10.70.70.70:80, host: cache2-iev-giga.steamcontent.com): Closing connection
+
+
+[2024-08-15 17:04:48] Client version: 1721172922
+[2024-08-15 17:04:48] Loaded Steam library folders configuration: H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\libraryfolders.vdf
+[2024-08-15 17:04:49] Loaded 0 apps from install folder "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\appmanifest_*.acf".
+[2024-08-15 17:04:49] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-08-15 17:04:51] AppID 573090 scheduler update : Priority First, not played for 1723730691 seconds, update disabled for 0 seconds
+[2024-08-15 17:04:51] AppID 573090 update changed : Running Update,
+[2024-08-15 17:04:51] AppID 573090 update changed : Running Update,Reconfiguring,
+[2024-08-15 17:04:51] AppID 573090 update changed : Running Update,
+[2024-08-15 17:04:51] AppID 573090 update changed : Running Update,Validating,
+[2024-08-15 17:04:51] Validating active workshop item 1800753475 ...
+[2024-08-15 17:04:51] Validation: missing file "1800753475\vehicle.xml"
+[2024-08-15 17:04:51] Validation: missing file "1800753475\workshop_preview.png"
+[2024-08-15 17:04:51] Validation: quick scan in "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/content/573090" found 2/2 mismatching files (0 seconds).
+[2024-08-15 17:04:51] AppID 573090 update changed : Running Update,
+[2024-08-15 17:04:51] AppID 573090 update changed : Running Update,Preallocating,
+[2024-08-15 17:04:51] AppID 573090 preallocated 0 files (0 MB) 
+[2024-08-15 17:04:51] AppID 573090 update changed : Running Update,
+[2024-08-15 17:04:51] AppID 573090 update started : download 0/30256, store 0/0, reuse 0/0, delta 0/0, stage 0/49759 
+[2024-08-15 17:04:51] AppID 573090 update changed : Running Update,Downloading,Staging,
+[2024-08-15 17:04:51] Enabling local content cache at '::ffff:a46:4646' from lookup of lancache.steamcontent.com.
+[2024-08-15 17:04:51] Adding cache type 'LANCache' on host '::ffff:a46:4646'
+[2024-08-15 17:04:51] Got 24 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 192 / Launcher 3)
+[2024-08-15 17:04:51] Moving to source priority class '6'
+[2024-08-15 17:04:51] Created download interface of type 'SteamCache' (7) to host cache2-iev-giga.steamcontent.com (cache2-iev-giga.steamcontent.com)
+[2024-08-15 17:04:51] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-08-15 17:04:51] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-08-15 17:04:51] Downloading 2 chunks from depot 573090
+[2024-08-15 17:04:51] HTTP/2 available
+[2024-08-15 17:04:51] Created ipv4-only http client
+[2024-08-15 17:04:52] AppID 573090 update changed : Running Update,
+[2024-08-15 17:04:52] AppID 573090 update changed : Running Update,Committing,
+[2024-08-15 17:04:52] AppID 573090 starting commit from "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/downloads/573090" to "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/content/573090" : 2 updated, 0 moved, 0 deleted files
+[2024-08-15 17:04:52] AppID 573090 update changed : Running Update,
+[2024-08-15 17:04:52] AppID 573090 update changed : None
+[2024-08-15 17:04:52] AppID 573090 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-08-15 17:04:52] HTTP (SteamCache,394) - cache4-iev-giga.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-08-15 17:04:52] HTTP (SteamCache,392) - cache1-iev-klnk.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache1-iev-klnk.steamcontent.com): Closing connection
+[2024-08-15 17:04:52] HTTP (SteamCache,182) - cache2-iev-giga.steamcontent.com (10.70.70.70:80 / 10.70.70.70:80, host: cache2-iev-giga.steamcontent.com): Closing connection
+
+
+[2024-08-15 17:06:36] Client version: 1721172922
+[2024-08-15 17:06:36] Loaded Steam library folders configuration: H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\libraryfolders.vdf
+[2024-08-15 17:06:37] Loaded 0 apps from install folder "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\appmanifest_*.acf".
+[2024-08-15 17:06:37] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-08-15 17:06:39] AppID 573090 scheduler update : Priority First, not played for 1723730799 seconds, update disabled for 0 seconds
+[2024-08-15 17:06:39] AppID 573090 update changed : Running Update,
+[2024-08-15 17:06:39] AppID 573090 update changed : Running Update,Reconfiguring,
+[2024-08-15 17:06:39] AppID 573090 update changed : Running Update,
+[2024-08-15 17:06:39] AppID 573090 update changed : Running Update,Validating,
+[2024-08-15 17:06:39] Validating active workshop item 1800753475 ...
+[2024-08-15 17:06:39] Validation: missing file "1800753475\vehicle.xml"
+[2024-08-15 17:06:39] Validation: missing file "1800753475\workshop_preview.png"
+[2024-08-15 17:06:39] Validation: quick scan in "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/content/573090" found 2/2 mismatching files (0 seconds).
+[2024-08-15 17:06:39] AppID 573090 update changed : Running Update,
+[2024-08-15 17:06:39] AppID 573090 update changed : Running Update,Preallocating,
+[2024-08-15 17:06:39] AppID 573090 preallocated 0 files (0 MB) 
+[2024-08-15 17:06:39] AppID 573090 update changed : Running Update,
+[2024-08-15 17:06:39] AppID 573090 update started : download 0/30256, store 0/0, reuse 0/0, delta 0/0, stage 0/49759 
+[2024-08-15 17:06:39] AppID 573090 update changed : Running Update,Downloading,Staging,
+[2024-08-15 17:06:39] Enabling local content cache at '::ffff:a46:4646' from lookup of lancache.steamcontent.com.
+[2024-08-15 17:06:39] Adding cache type 'LANCache' on host '::ffff:a46:4646'
+[2024-08-15 17:06:40] Got 25 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 192 / Launcher 3)
+[2024-08-15 17:06:40] Moving to source priority class '6'
+[2024-08-15 17:06:40] Created download interface of type 'SteamCache' (7) to host cache2-iev-giga.steamcontent.com (cache2-iev-giga.steamcontent.com)
+[2024-08-15 17:06:40] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-08-15 17:06:40] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-08-15 17:06:40] Downloading 2 chunks from depot 573090
+[2024-08-15 17:06:40] HTTP/2 available
+[2024-08-15 17:06:40] Created ipv4-only http client
+[2024-08-15 17:06:40] AppID 573090 update changed : Running Update,
+[2024-08-15 17:06:40] AppID 573090 update changed : Running Update,Committing,
+[2024-08-15 17:06:40] AppID 573090 starting commit from "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/downloads/573090" to "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/content/573090" : 2 updated, 0 moved, 0 deleted files
+[2024-08-15 17:06:40] AppID 573090 update changed : Running Update,
+[2024-08-15 17:06:40] AppID 573090 update changed : None
+[2024-08-15 17:06:40] AppID 573090 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-08-15 17:06:40] HTTP (SteamCache,394) - cache4-iev-giga.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-08-15 17:06:40] HTTP (SteamCache,392) - cache1-iev-klnk.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache1-iev-klnk.steamcontent.com): Closing connection
+[2024-08-15 17:06:40] HTTP (SteamCache,182) - cache2-iev-giga.steamcontent.com (10.70.70.70:80 / 10.70.70.70:80, host: cache2-iev-giga.steamcontent.com): Closing connection
+
+
+[2024-08-15 17:08:22] Client version: 1721172922
+[2024-08-15 17:08:22] Loaded Steam library folders configuration: H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\libraryfolders.vdf
+[2024-08-15 17:08:23] Loaded 0 apps from install folder "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\appmanifest_*.acf".
+[2024-08-15 17:08:23] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-08-15 17:08:25] AppID 573090 scheduler update : Priority First, not played for 1723730905 seconds, update disabled for 0 seconds
+[2024-08-15 17:08:25] AppID 573090 update changed : Running Update,
+[2024-08-15 17:08:25] AppID 573090 update changed : Running Update,Reconfiguring,
+[2024-08-15 17:08:25] AppID 573090 update changed : Running Update,
+[2024-08-15 17:08:25] AppID 573090 update changed : Running Update,Validating,
+[2024-08-15 17:08:25] Validating active workshop item 1800753475 ...
+[2024-08-15 17:08:25] AppID 573090 update changed : Running Update,
+[2024-08-15 17:08:25] AppID 573090 has no changes, 1 active: 573090 (3332640393217921284), 1 target: 573090 (3332640393217921284),
+[2024-08-15 17:08:25] AppID 573090 update changed : Running Update,Staging,
+[2024-08-15 17:08:25] AppID 573090 update changed : Running Update,
+[2024-08-15 17:08:25] AppID 573090 update changed : Running Update,Committing,
+[2024-08-15 17:08:25] AppID 573090 starting commit from "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/downloads/573090" to "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/content/573090" : 0 updated, 0 moved, 0 deleted files
+[2024-08-15 17:08:25] AppID 573090 update changed : Running Update,
+[2024-08-15 17:08:25] AppID 573090 update changed : None
+[2024-08-15 17:08:25] AppID 573090 scheduler finished : removed from schedule (result No Error, state 0x0) 
+
+
+[2024-08-15 17:09:35] Client version: 1721172922
+[2024-08-15 17:09:35] Loaded Steam library folders configuration: H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\libraryfolders.vdf
+[2024-08-15 17:09:37] Loaded 0 apps from install folder "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\appmanifest_*.acf".
+[2024-08-15 17:09:37] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-08-15 17:09:38] AppID 573090 scheduler update : Priority First, not played for 1723730978 seconds, update disabled for 0 seconds
+[2024-08-15 17:09:38] AppID 573090 update changed : Running Update,
+[2024-08-15 17:09:38] AppID 573090 update changed : Running Update,Reconfiguring,
+[2024-08-15 17:09:38] AppID 573090 update changed : Running Update,
+[2024-08-15 17:09:38] AppID 573090 update changed : Running Update,Validating,
+[2024-08-15 17:09:38] Validating active workshop item 1800753475 ...
+[2024-08-15 17:09:38] Validation: missing file "1800753475\vehicle.xml"
+[2024-08-15 17:09:38] Validation: missing file "1800753475\workshop_preview.png"
+[2024-08-15 17:09:38] Validation: quick scan in "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/content/573090" found 2/2 mismatching files (0 seconds).
+[2024-08-15 17:09:38] AppID 573090 update changed : Running Update,
+[2024-08-15 17:09:38] AppID 573090 update changed : Running Update,Preallocating,
+[2024-08-15 17:09:38] AppID 573090 preallocated 0 files (0 MB) 
+[2024-08-15 17:09:38] AppID 573090 update changed : Running Update,
+[2024-08-15 17:09:38] AppID 573090 update started : download 0/30256, store 0/0, reuse 0/0, delta 0/0, stage 0/49759 
+[2024-08-15 17:09:38] AppID 573090 update changed : Running Update,Downloading,Staging,
+[2024-08-15 17:09:38] Enabling local content cache at '::ffff:a46:4646' from lookup of lancache.steamcontent.com.
+[2024-08-15 17:09:38] Adding cache type 'LANCache' on host '::ffff:a46:4646'
+[2024-08-15 17:09:39] Got 25 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 192 / Launcher 3)
+[2024-08-15 17:09:39] Moving to source priority class '6'
+[2024-08-15 17:09:39] Created download interface of type 'SteamCache' (7) to host cache2-iev-giga.steamcontent.com (cache2-iev-giga.steamcontent.com)
+[2024-08-15 17:09:39] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-08-15 17:09:39] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-08-15 17:09:39] Downloading 2 chunks from depot 573090
+[2024-08-15 17:09:39] HTTP/2 available
+[2024-08-15 17:09:39] Created ipv4-only http client
+[2024-08-15 17:09:39] AppID 573090 update changed : Running Update,
+[2024-08-15 17:09:39] AppID 573090 update changed : Running Update,Committing,
+[2024-08-15 17:09:39] AppID 573090 starting commit from "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/downloads/573090" to "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/content/573090" : 2 updated, 0 moved, 0 deleted files
+[2024-08-15 17:09:39] AppID 573090 update changed : Running Update,
+[2024-08-15 17:09:39] AppID 573090 update changed : None
+[2024-08-15 17:09:39] AppID 573090 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-08-15 17:09:39] HTTP (SteamCache,394) - cache4-iev-giga.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-08-15 17:09:39] HTTP (SteamCache,392) - cache1-iev-klnk.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache1-iev-klnk.steamcontent.com): Closing connection
+[2024-08-15 17:09:39] HTTP (SteamCache,182) - cache2-iev-giga.steamcontent.com (10.70.70.70:80 / 10.70.70.70:80, host: cache2-iev-giga.steamcontent.com): Closing connection
+
+
+[2024-08-15 17:12:12] Client version: 1721172922
+[2024-08-15 17:12:12] Loaded Steam library folders configuration: H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\libraryfolders.vdf
+[2024-08-15 17:12:13] Loaded 0 apps from install folder "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\appmanifest_*.acf".
+[2024-08-15 17:12:13] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-08-15 17:12:14] AppID 573090 scheduler update : Priority First, not played for 1723731134 seconds, update disabled for 0 seconds
+[2024-08-15 17:12:14] AppID 573090 update changed : Running Update,
+[2024-08-15 17:12:14] AppID 573090 update changed : Running Update,Reconfiguring,
+[2024-08-15 17:12:15] AppID 573090 update changed : Running Update,
+[2024-08-15 17:12:15] AppID 573090 update changed : Running Update,Validating,
+[2024-08-15 17:12:15] Validating active workshop item 1800753475 ...
+[2024-08-15 17:12:15] Validation: missing file "1800753475\vehicle.xml"
+[2024-08-15 17:12:15] Validation: missing file "1800753475\workshop_preview.png"
+[2024-08-15 17:12:15] Validation: quick scan in "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/content/573090" found 2/2 mismatching files (0 seconds).
+[2024-08-15 17:12:15] AppID 573090 update changed : Running Update,
+[2024-08-15 17:12:15] AppID 573090 update changed : Running Update,Preallocating,
+[2024-08-15 17:12:15] AppID 573090 preallocated 0 files (0 MB) 
+[2024-08-15 17:12:15] AppID 573090 update changed : Running Update,
+[2024-08-15 17:12:15] AppID 573090 update started : download 0/30256, store 0/0, reuse 0/0, delta 0/0, stage 0/49759 
+[2024-08-15 17:12:15] AppID 573090 update changed : Running Update,Downloading,Staging,
+[2024-08-15 17:12:15] Enabling local content cache at '::ffff:a46:4646' from lookup of lancache.steamcontent.com.
+[2024-08-15 17:12:15] Adding cache type 'LANCache' on host '::ffff:a46:4646'
+[2024-08-15 17:12:15] Got 25 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 192 / Launcher 3)
+[2024-08-15 17:12:15] Moving to source priority class '6'
+[2024-08-15 17:12:15] Created download interface of type 'SteamCache' (7) to host cache2-iev-giga.steamcontent.com (cache2-iev-giga.steamcontent.com)
+[2024-08-15 17:12:15] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-08-15 17:12:15] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-08-15 17:12:15] Downloading 2 chunks from depot 573090
+[2024-08-15 17:12:15] HTTP/2 available
+[2024-08-15 17:12:15] Created ipv4-only http client
+[2024-08-15 17:12:15] AppID 573090 update changed : Running Update,
+[2024-08-15 17:12:15] AppID 573090 update changed : Running Update,Committing,
+[2024-08-15 17:12:15] AppID 573090 starting commit from "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/downloads/573090" to "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/content/573090" : 2 updated, 0 moved, 0 deleted files
+[2024-08-15 17:12:15] AppID 573090 update changed : Running Update,
+[2024-08-15 17:12:15] AppID 573090 update changed : None
+[2024-08-15 17:12:15] AppID 573090 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-08-15 17:12:15] HTTP (SteamCache,394) - cache4-iev-giga.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-08-15 17:12:15] HTTP (SteamCache,392) - cache1-iev-klnk.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache1-iev-klnk.steamcontent.com): Closing connection
+[2024-08-15 17:12:15] HTTP (SteamCache,182) - cache2-iev-giga.steamcontent.com (10.70.70.70:80 / 10.70.70.70:80, host: cache2-iev-giga.steamcontent.com): Closing connection
+
+
+[2024-08-15 17:13:50] Client version: 1721172922
+[2024-08-15 17:13:50] Loaded Steam library folders configuration: H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\libraryfolders.vdf
+[2024-08-15 17:13:51] Loaded 0 apps from install folder "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\appmanifest_*.acf".
+[2024-08-15 17:13:51] Triggered async write of Steam library folders configuration (1 libraries).
+[2024-08-15 17:13:53] AppID 573090 scheduler update : Priority First, not played for 1723731233 seconds, update disabled for 0 seconds
+[2024-08-15 17:13:53] AppID 573090 update changed : Running Update,
+[2024-08-15 17:13:53] AppID 573090 update changed : Running Update,Reconfiguring,
+[2024-08-15 17:13:53] AppID 573090 update changed : Running Update,
+[2024-08-15 17:13:53] AppID 573090 update changed : Running Update,Validating,
+[2024-08-15 17:13:53] Validating active workshop item 1800753475 ...
+[2024-08-15 17:13:53] Validation: missing file "1800753475\vehicle.xml"
+[2024-08-15 17:13:53] Validation: missing file "1800753475\workshop_preview.png"
+[2024-08-15 17:13:53] Validation: quick scan in "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/content/573090" found 2/2 mismatching files (0 seconds).
+[2024-08-15 17:13:53] AppID 573090 update changed : Running Update,
+[2024-08-15 17:13:53] AppID 573090 update changed : Running Update,Preallocating,
+[2024-08-15 17:13:53] AppID 573090 preallocated 0 files (0 MB) 
+[2024-08-15 17:13:53] AppID 573090 update changed : Running Update,
+[2024-08-15 17:13:53] AppID 573090 update started : download 0/30256, store 0/0, reuse 0/0, delta 0/0, stage 0/49759 
+[2024-08-15 17:13:53] AppID 573090 update changed : Running Update,Downloading,Staging,
+[2024-08-15 17:13:53] Enabling local content cache at '::ffff:a46:4646' from lookup of lancache.steamcontent.com.
+[2024-08-15 17:13:53] Adding cache type 'LANCache' on host '::ffff:a46:4646'
+[2024-08-15 17:13:53] Got 25 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 192 / Launcher 3)
+[2024-08-15 17:13:53] Moving to source priority class '6'
+[2024-08-15 17:13:53] Created download interface of type 'SteamCache' (7) to host cache2-iev-giga.steamcontent.com (cache2-iev-giga.steamcontent.com)
+[2024-08-15 17:13:53] Created download interface of type 'SteamCache' (7) to host cache1-iev-klnk.steamcontent.com (cache1-iev-klnk.steamcontent.com)
+[2024-08-15 17:13:53] Created download interface of type 'SteamCache' (7) to host cache4-iev-giga.steamcontent.com (cache4-iev-giga.steamcontent.com)
+[2024-08-15 17:13:53] Downloading 2 chunks from depot 573090
+[2024-08-15 17:13:53] HTTP/2 available
+[2024-08-15 17:13:53] Created ipv4-only http client
+[2024-08-15 17:13:54] AppID 573090 update changed : Running Update,
+[2024-08-15 17:13:54] AppID 573090 update changed : Running Update,Committing,
+[2024-08-15 17:13:54] AppID 573090 starting commit from "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/downloads/573090" to "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop/content/573090" : 2 updated, 0 moved, 0 deleted files
+[2024-08-15 17:13:54] AppID 573090 update changed : Running Update,
+[2024-08-15 17:13:54] AppID 573090 update changed : None
+[2024-08-15 17:13:54] AppID 573090 scheduler finished : removed from schedule (result No Error, state 0x0) 
+[2024-08-15 17:13:54] HTTP (SteamCache,394) - cache4-iev-giga.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache4-iev-giga.steamcontent.com): Closing connection
+[2024-08-15 17:13:54] HTTP (SteamCache,392) - cache1-iev-klnk.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: cache1-iev-klnk.steamcontent.com): Closing connection
+[2024-08-15 17:13:54] HTTP (SteamCache,182) - cache2-iev-giga.steamcontent.com (10.70.70.70:80 / 10.70.70.70:80, host: cache2-iev-giga.steamcontent.com): Closing connection

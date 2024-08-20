@@ -1,0 +1,237 @@
+
+
+[2024-08-15 16:37:00] Startup - updater built Dec  2 2013 18:43:44
+[2024-08-15 16:37:00] Checking for update on startup
+[2024-08-15 16:37:00] Checking for available update...
+[2024-08-15 16:37:01] Download failed: http error 0
+[2024-08-15 16:37:01] Package file steamcmd_public_all.zip.ea67e6dc83b60ab8bfb54756920e9ea394f81a90 missing or incorrect size
+[2024-08-15 16:37:01] Package file steamcmd_bins_win32.zip.c5a60520ed26ff584606a61556c53c423cf65497 missing or incorrect size
+[2024-08-15 16:37:01] Package file steamcmd_steamservice_win32.zip.060c38ed69f4c616784fd24108be86b14fcc38b6 missing or incorrect size
+[2024-08-15 16:37:01] Package file steamcmd_steamerrorreporter_win32.zip.3f6e8bcb0ac5985497ab4a88a0ee73e48b405a37 missing or incorrect size
+[2024-08-15 16:37:01] Package file steamcmd_siteserverui_win32.zip.24eee3722a77383749ae67b678313695e9fef36b missing or incorrect size
+[2024-08-15 16:37:01] Package file steamcmd_win32.zip.a8b4151eabc9e93979154dacf7d76b33bc9d1318 missing or incorrect size
+[2024-08-15 16:37:01] Downloading update (0 of 65,458 KB)...
+[2024-08-15 16:37:01] Error: Download of package (steamcmd_win32) failed after 0 bytes (0).
+[2024-08-15 16:37:01] Error: Download of package (steamcmd_siteserverui_win32) failed after 0 bytes (0).
+[2024-08-15 16:37:01] Error: Download of package (steamcmd_steamerrorreporter_win32) failed after 0 bytes (0).
+[2024-08-15 16:37:01] Error: Download of package (steamcmd_steamservice_win32) failed after 0 bytes (0).
+[2024-08-15 16:37:01] Error: Download of package (steamcmd_bins_win32) failed after 0 bytes (0).
+[2024-08-15 16:37:01] Error: Download of package (steamcmd_public_all) failed after 0 bytes (0).
+[2024-08-15 16:37:01] Package file steamcmd_public_all.zip.ea67e6dc83b60ab8bfb54756920e9ea394f81a90 missing or incorrect size
+[2024-08-15 16:37:01] Package file steamcmd_bins_win32.zip.c5a60520ed26ff584606a61556c53c423cf65497 missing or incorrect size
+[2024-08-15 16:37:01] Package file steamcmd_steamservice_win32.zip.060c38ed69f4c616784fd24108be86b14fcc38b6 missing or incorrect size
+[2024-08-15 16:37:01] Package file steamcmd_steamerrorreporter_win32.zip.3f6e8bcb0ac5985497ab4a88a0ee73e48b405a37 missing or incorrect size
+[2024-08-15 16:37:01] Package file steamcmd_siteserverui_win32.zip.24eee3722a77383749ae67b678313695e9fef36b missing or incorrect size
+[2024-08-15 16:37:01] Package file steamcmd_win32.zip.a8b4151eabc9e93979154dacf7d76b33bc9d1318 missing or incorrect size
+[2024-08-15 16:37:01] Downloading update (9,789 of 65,458 KB)...
+[2024-08-15 16:37:02] Downloading update (21,527 of 65,458 KB)...
+[2024-08-15 16:37:02] Downloading update (28,709 of 65,458 KB)...
+[2024-08-15 16:37:02] Downloading update (33,565 of 65,458 KB)...
+[2024-08-15 16:37:02] Downloading update (37,790 of 65,458 KB)...
+[2024-08-15 16:37:03] Downloading update (42,055 of 65,458 KB)...
+[2024-08-15 16:37:03] Downloading update (46,808 of 65,458 KB)...
+[2024-08-15 16:37:03] Downloading update (51,092 of 65,458 KB)...
+[2024-08-15 16:37:03] Downloading update (55,773 of 65,458 KB)...
+[2024-08-15 16:37:04] Downloading update (59,539 of 65,458 KB)...
+[2024-08-15 16:37:04] Downloading update (64,526 of 65,458 KB)...
+[2024-08-15 16:37:04] Downloading update (65,458 of 65,458 KB)...
+[2024-08-15 16:37:04] Download Complete.
+[2024-08-15 16:37:04] uninstalled manifest found in H:\Python Programs\steamworkshopdownloader-master\steamcmd\package\steam_cmd_win32 (1).
+[2024-08-15 16:37:04] Found pending update
+[2024-08-15 16:37:04] Applying update...
+[2024-08-15 16:37:04] Extracting package...
+[2024-08-15 16:37:06] Installing update...
+[2024-08-15 16:37:06] Committing NTFS transaction (0 non-transactional backup files)
+[2024-08-15 16:37:06] Cleaning up...
+[2024-08-15 16:37:06] Update complete, launching...
+[2024-08-15 16:37:06] Shutdown
+
+
+[2024-08-15 16:46:09] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-15 16:46:09] Startup - Steam Client launched with: steamcmd\steamcmd.exe "+login anonymous" "+workshop_download_item 573090 1800753475" +quit
+[2024-08-15 16:46:09] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-15 16:46:09] Using the following download hosts for Public, Realm steamglobal
+[2024-08-15 16:46:09] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-15 16:46:09] Checking for update on startup
+[2024-08-15 16:46:09] Перевірка наявності оновлень…
+[2024-08-15 16:46:09] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-15 16:46:09] Manifest download: send request
+[2024-08-15 16:46:09] Manifest download: waiting for download to finish
+[2024-08-15 16:46:10] Manifest download: finished
+[2024-08-15 16:46:10] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-15 16:46:10] Nothing to do
+[2024-08-15 16:46:10] Перевірка інсталяції…
+[2024-08-15 16:46:10] Performing checksum verification of executable files
+[2024-08-15 16:46:10] Verification complete
+[2024-08-15 16:46:14] Shutdown
+
+
+[2024-08-15 16:52:34] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-15 16:52:34] Startup - Steam Client launched with: steamcmd\steamcmd.exe "+login anonymous" "+workshop_download_item 573090 1800753475" +quit
+[2024-08-15 16:52:34] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-15 16:52:34] Using the following download hosts for Public, Realm steamglobal
+[2024-08-15 16:52:34] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-15 16:52:34] Checking for update on startup
+[2024-08-15 16:52:34] Перевірка наявності оновлень…
+[2024-08-15 16:52:34] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-15 16:52:34] Manifest download: send request
+[2024-08-15 16:52:34] Manifest download: waiting for download to finish
+[2024-08-15 16:52:35] Manifest download: finished
+[2024-08-15 16:52:35] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-15 16:52:35] Nothing to do
+[2024-08-15 16:52:35] Перевірка інсталяції…
+[2024-08-15 16:52:35] Performing checksum verification of executable files
+[2024-08-15 16:52:35] Verification complete
+[2024-08-15 16:52:38] Shutdown
+
+
+[2024-08-15 16:55:23] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-15 16:55:23] Startup - Steam Client launched with: steamcmd\steamcmd.exe "+login anonymous" "+workshop_download_item 573090 1800753475" +quit
+[2024-08-15 16:55:23] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-15 16:55:23] Using the following download hosts for Public, Realm steamglobal
+[2024-08-15 16:55:23] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-15 16:55:23] Checking for update on startup
+[2024-08-15 16:55:23] Перевірка наявності оновлень…
+[2024-08-15 16:55:23] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-15 16:55:23] Manifest download: send request
+[2024-08-15 16:55:24] Manifest download: waiting for download to finish
+[2024-08-15 16:55:24] Manifest download: finished
+[2024-08-15 16:55:24] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-15 16:55:24] Nothing to do
+[2024-08-15 16:55:24] Перевірка інсталяції…
+[2024-08-15 16:55:24] Performing checksum verification of executable files
+[2024-08-15 16:55:24] Verification complete
+[2024-08-15 16:55:28] Shutdown
+
+
+[2024-08-15 17:02:16] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-15 17:02:16] Startup - Steam Client launched with: steamcmd\steamcmd.exe "+login anonymous" "+workshop_download_item 573090 1800753475" +quit
+[2024-08-15 17:02:16] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-15 17:02:16] Using the following download hosts for Public, Realm steamglobal
+[2024-08-15 17:02:16] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-15 17:02:16] Checking for update on startup
+[2024-08-15 17:02:16] Перевірка наявності оновлень…
+[2024-08-15 17:02:16] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-15 17:02:17] Manifest download: send request
+[2024-08-15 17:02:17] Manifest download: waiting for download to finish
+[2024-08-15 17:02:17] Manifest download: finished
+[2024-08-15 17:02:17] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-15 17:02:17] Nothing to do
+[2024-08-15 17:02:17] Перевірка інсталяції…
+[2024-08-15 17:02:17] Performing checksum verification of executable files
+[2024-08-15 17:02:17] Verification complete
+[2024-08-15 17:02:21] Shutdown
+
+
+[2024-08-15 17:04:47] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-15 17:04:47] Startup - Steam Client launched with: steamcmd\steamcmd.exe "+login anonymous" "+workshop_download_item 573090 1800753475" +quit
+[2024-08-15 17:04:47] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-15 17:04:47] Using the following download hosts for Public, Realm steamglobal
+[2024-08-15 17:04:47] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-15 17:04:47] Checking for update on startup
+[2024-08-15 17:04:47] Перевірка наявності оновлень…
+[2024-08-15 17:04:47] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-15 17:04:47] Manifest download: send request
+[2024-08-15 17:04:47] Manifest download: waiting for download to finish
+[2024-08-15 17:04:48] Manifest download: finished
+[2024-08-15 17:04:48] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-15 17:04:48] Nothing to do
+[2024-08-15 17:04:48] Перевірка інсталяції…
+[2024-08-15 17:04:48] Performing checksum verification of executable files
+[2024-08-15 17:04:48] Verification complete
+[2024-08-15 17:04:52] Shutdown
+
+
+[2024-08-15 17:06:35] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-15 17:06:35] Startup - Steam Client launched with: steamcmd\steamcmd.exe "+login anonymous" "+workshop_download_item 573090 1800753475" +quit
+[2024-08-15 17:06:35] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-15 17:06:35] Using the following download hosts for Public, Realm steamglobal
+[2024-08-15 17:06:35] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-15 17:06:35] Checking for update on startup
+[2024-08-15 17:06:35] Перевірка наявності оновлень…
+[2024-08-15 17:06:35] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-15 17:06:35] Manifest download: send request
+[2024-08-15 17:06:36] Manifest download: waiting for download to finish
+[2024-08-15 17:06:36] Manifest download: finished
+[2024-08-15 17:06:36] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-15 17:06:36] Nothing to do
+[2024-08-15 17:06:36] Перевірка інсталяції…
+[2024-08-15 17:06:36] Performing checksum verification of executable files
+[2024-08-15 17:06:36] Verification complete
+[2024-08-15 17:06:40] Shutdown
+
+
+[2024-08-15 17:08:21] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-15 17:08:21] Startup - Steam Client launched with: steamcmd\steamcmd.exe "+login anonymous" "+workshop_download_item 573090 1800753475" +quit
+[2024-08-15 17:08:21] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-15 17:08:21] Using the following download hosts for Public, Realm steamglobal
+[2024-08-15 17:08:21] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-15 17:08:21] Checking for update on startup
+[2024-08-15 17:08:21] Перевірка наявності оновлень…
+[2024-08-15 17:08:21] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-15 17:08:21] Manifest download: send request
+[2024-08-15 17:08:21] Manifest download: waiting for download to finish
+[2024-08-15 17:08:22] Manifest download: finished
+[2024-08-15 17:08:22] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-15 17:08:22] Nothing to do
+[2024-08-15 17:08:22] Перевірка інсталяції…
+[2024-08-15 17:08:22] Performing checksum verification of executable files
+[2024-08-15 17:08:22] Verification complete
+[2024-08-15 17:08:25] Shutdown
+
+
+[2024-08-15 17:09:34] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-15 17:09:34] Startup - Steam Client launched with: steamcmd\steamcmd.exe "+login anonymous" "+workshop_download_item 573090 1800753475" +quit
+[2024-08-15 17:09:35] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-15 17:09:35] Using the following download hosts for Public, Realm steamglobal
+[2024-08-15 17:09:35] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-15 17:09:35] Checking for update on startup
+[2024-08-15 17:09:35] Перевірка наявності оновлень…
+[2024-08-15 17:09:35] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-15 17:09:35] Manifest download: send request
+[2024-08-15 17:09:35] Manifest download: waiting for download to finish
+[2024-08-15 17:09:35] Manifest download: finished
+[2024-08-15 17:09:35] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-15 17:09:35] Nothing to do
+[2024-08-15 17:09:35] Перевірка інсталяції…
+[2024-08-15 17:09:35] Performing checksum verification of executable files
+[2024-08-15 17:09:35] Verification complete
+[2024-08-15 17:09:39] Shutdown
+
+
+[2024-08-15 17:12:10] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-15 17:12:10] Startup - Steam Client launched with: steamcmd\steamcmd.exe "+login anonymous" "+workshop_download_item 573090 1800753475" +quit
+[2024-08-15 17:12:11] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-15 17:12:11] Using the following download hosts for Public, Realm steamglobal
+[2024-08-15 17:12:11] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-15 17:12:11] Checking for update on startup
+[2024-08-15 17:12:11] Перевірка наявності оновлень…
+[2024-08-15 17:12:11] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-15 17:12:11] Manifest download: send request
+[2024-08-15 17:12:11] Manifest download: waiting for download to finish
+[2024-08-15 17:12:11] Manifest download: finished
+[2024-08-15 17:12:11] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-15 17:12:11] Nothing to do
+[2024-08-15 17:12:11] Перевірка інсталяції…
+[2024-08-15 17:12:11] Performing checksum verification of executable files
+[2024-08-15 17:12:11] Verification complete
+[2024-08-15 17:12:16] Shutdown
+
+
+[2024-08-15 17:13:49] Startup - updater built Jul 16 2024 16:23:50
+[2024-08-15 17:13:49] Startup - Steam Client launched with: steamcmd\steamcmd.exe "+login anonymous" "+workshop_download_item 573090 1800753475" +quit
+[2024-08-15 17:13:49] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2024-08-15 17:13:49] Using the following download hosts for Public, Realm steamglobal
+[2024-08-15 17:13:49] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2024-08-15 17:13:49] Checking for update on startup
+[2024-08-15 17:13:49] Перевірка наявності оновлень…
+[2024-08-15 17:13:49] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2024-08-15 17:13:49] Manifest download: send request
+[2024-08-15 17:13:49] Manifest download: waiting for download to finish
+[2024-08-15 17:13:50] Manifest download: finished
+[2024-08-15 17:13:50] Download skipped: /client/steam_cmd_win32 version 1721172922, installed version 1721172922, existing pending version 0
+[2024-08-15 17:13:50] Nothing to do
+[2024-08-15 17:13:50] Перевірка інсталяції…
+[2024-08-15 17:13:50] Performing checksum verification of executable files
+[2024-08-15 17:13:50] Verification complete
+[2024-08-15 17:13:54] Shutdown

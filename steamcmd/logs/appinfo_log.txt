@@ -1,0 +1,141 @@
+
+
+[2024-08-15 16:37:14] Client version: 1721172922
+[2024-08-15 16:37:14] RequestAppInfoUpdate: AppIDs 7
+[2024-08-15 16:37:15] Change number 0->24800868, apps: 0/0, packages: 0/0
+[2024-08-15 16:37:15] Requesting 1 apps, 1 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-08-15 16:37:15] Downloaded 1 apps via HTTP, 14 KB (3 KB compressed)
+[2024-08-15 16:37:15] Requesting 0 apps, 1 packages (full data, 1024 prev attempts, expected 29 KB)
+[2024-08-15 16:37:16] UpdatesJob: finished OK, apps updated 1 (14 KB), packages updated 1 (29 KB)
+[2024-08-15 16:37:16] Requesting 1217 apps, 0 packages (meta data, 1024 prev attempts, expected 57 KB)
+[2024-08-15 16:37:17] Requested 130 app access tokens, 53 received, 77 denied
+[2024-08-15 16:37:18] Updated SHAs with 53 new access tokens
+[2024-08-15 16:37:23] Downloaded 1152 apps via HTTP, 9532 KB (2775 KB compressed)
+[2024-08-15 16:37:23] Requesting 65 apps, 0 packages (full data, 1024 prev attempts, expected 7 KB)
+[2024-08-15 16:37:23] UpdatesJob: finished OK, apps updated 1217 (9536 KB), packages updated 0 (0 KB)
+[2024-08-15 16:37:23] RequestAppInfoUpdate: AppIDs 573090
+[2024-08-15 16:37:23] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-08-15 16:37:23] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-08-15 16:37:27] Starting async write H:\Python Programs\steamworkshopdownloader-master\steamcmd/appcache/appinfo.vdf (6959 KB)
+
+
+[2024-08-15 16:46:11] Client version: 1721172922
+[2024-08-15 16:46:11] RequestAppInfoUpdate: AppIDs 7
+[2024-08-15 16:46:11] Packages changed: force all
+[2024-08-15 16:46:11] Change number 24800868->24800991, apps: 0/95, packages: 0/0
+[2024-08-15 16:46:11] Requesting 78 apps, 1 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-08-15 16:46:12] Requested 77 app access tokens, 0 received, 77 denied
+[2024-08-15 16:46:12] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-08-15 16:46:12] RequestAppInfoUpdate: AppIDs 573090
+[2024-08-15 16:46:12] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-08-15 16:46:13] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-08-15 16:52:36] Client version: 1721172922
+[2024-08-15 16:52:36] RequestAppInfoUpdate: AppIDs 7
+[2024-08-15 16:52:36] Apps changed: 1751640=24801070,
+[2024-08-15 16:52:36] Change number 24800991->24801079, apps: 1/74, packages: 0/4
+[2024-08-15 16:52:36] Requesting 79 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-08-15 16:52:37] Requested 77 app access tokens, 0 received, 77 denied
+[2024-08-15 16:52:37] Downloaded 1 apps via HTTP, 4 KB (1 KB compressed)
+[2024-08-15 16:52:37] UpdatesJob: finished OK, apps updated 1 (4 KB), packages updated 0 (0 KB)
+[2024-08-15 16:52:37] RequestAppInfoUpdate: AppIDs 573090
+[2024-08-15 16:52:37] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-08-15 16:52:38] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-08-15 16:52:38] Starting async write H:\Python Programs\steamworkshopdownloader-master\steamcmd/appcache/appinfo.vdf (6959 KB)
+
+
+[2024-08-15 16:55:25] Client version: 1721172922
+[2024-08-15 16:55:25] RequestAppInfoUpdate: AppIDs 7
+[2024-08-15 16:55:26] Change number 24801079->24801137, apps: 0/49, packages: 0/3
+[2024-08-15 16:55:26] Requesting 78 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-08-15 16:55:26] Requested 77 app access tokens, 0 received, 77 denied
+[2024-08-15 16:55:26] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-08-15 16:55:26] RequestAppInfoUpdate: AppIDs 573090
+[2024-08-15 16:55:26] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-08-15 16:55:27] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-08-15 17:02:19] Client version: 1721172922
+[2024-08-15 17:02:19] RequestAppInfoUpdate: AppIDs 7
+[2024-08-15 17:02:19] Packages changed: force all
+[2024-08-15 17:02:19] Apps changed: 2915550=24801258,983870=24801250,774961=24801245,
+[2024-08-15 17:02:19] Change number 24801137->24801283, apps: 3/107, packages: 0/0
+[2024-08-15 17:02:19] Requesting 81 apps, 1 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-08-15 17:02:20] Requested 77 app access tokens, 0 received, 77 denied
+[2024-08-15 17:02:20] Downloaded 3 apps via HTTP, 30 KB (9 KB compressed)
+[2024-08-15 17:02:20] UpdatesJob: finished OK, apps updated 3 (30 KB), packages updated 0 (0 KB)
+[2024-08-15 17:02:20] RequestAppInfoUpdate: AppIDs 573090
+[2024-08-15 17:02:20] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-08-15 17:02:20] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-08-15 17:02:21] Starting async write H:\Python Programs\steamworkshopdownloader-master\steamcmd/appcache/appinfo.vdf (6959 KB)
+
+
+[2024-08-15 17:04:49] Client version: 1721172922
+[2024-08-15 17:04:49] RequestAppInfoUpdate: AppIDs 7
+[2024-08-15 17:04:50] Change number 24801283->24801316, apps: 0/28, packages: 0/3
+[2024-08-15 17:04:50] Requesting 78 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-08-15 17:04:50] Requested 77 app access tokens, 0 received, 77 denied
+[2024-08-15 17:04:50] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-08-15 17:04:50] RequestAppInfoUpdate: AppIDs 573090
+[2024-08-15 17:04:50] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-08-15 17:04:51] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-08-15 17:06:37] Client version: 1721172922
+[2024-08-15 17:06:37] RequestAppInfoUpdate: AppIDs 7
+[2024-08-15 17:06:38] Apps changed: 951440=24801333,
+[2024-08-15 17:06:38] Change number 24801316->24801340, apps: 1/20, packages: 0/4
+[2024-08-15 17:06:38] Requesting 79 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-08-15 17:06:38] Requested 77 app access tokens, 0 received, 77 denied
+[2024-08-15 17:06:39] Downloaded 1 apps via HTTP, 15 KB (4 KB compressed)
+[2024-08-15 17:06:39] UpdatesJob: finished OK, apps updated 1 (15 KB), packages updated 0 (0 KB)
+[2024-08-15 17:06:39] RequestAppInfoUpdate: AppIDs 573090
+[2024-08-15 17:06:39] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-08-15 17:06:39] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-08-15 17:06:40] Starting async write H:\Python Programs\steamworkshopdownloader-master\steamcmd/appcache/appinfo.vdf (6959 KB)
+
+
+[2024-08-15 17:08:23] Client version: 1721172922
+[2024-08-15 17:08:23] RequestAppInfoUpdate: AppIDs 7
+[2024-08-15 17:08:23] Change number 24801340->24801359, apps: 0/16, packages: 0/1
+[2024-08-15 17:08:23] Requesting 78 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-08-15 17:08:24] Requested 77 app access tokens, 0 received, 77 denied
+[2024-08-15 17:08:24] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-08-15 17:08:24] RequestAppInfoUpdate: AppIDs 573090
+[2024-08-15 17:08:24] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-08-15 17:08:24] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-08-15 17:09:37] Client version: 1721172922
+[2024-08-15 17:09:37] RequestAppInfoUpdate: AppIDs 7
+[2024-08-15 17:09:37] Change number 24801359->24801376, apps: 0/13, packages: 0/2
+[2024-08-15 17:09:37] Requesting 78 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-08-15 17:09:38] Requested 77 app access tokens, 0 received, 77 denied
+[2024-08-15 17:09:38] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-08-15 17:09:38] RequestAppInfoUpdate: AppIDs 573090
+[2024-08-15 17:09:38] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-08-15 17:09:38] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-08-15 17:12:13] Client version: 1721172922
+[2024-08-15 17:12:13] RequestAppInfoUpdate: AppIDs 7
+[2024-08-15 17:12:13] Packages changed: force all
+[2024-08-15 17:12:13] Change number 24801376->24801421, apps: 0/35, packages: 0/0
+[2024-08-15 17:12:13] Requesting 78 apps, 1 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-08-15 17:12:14] Requested 77 app access tokens, 0 received, 77 denied
+[2024-08-15 17:12:14] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-08-15 17:12:14] RequestAppInfoUpdate: AppIDs 573090
+[2024-08-15 17:12:14] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-08-15 17:12:14] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2024-08-15 17:13:51] Client version: 1721172922
+[2024-08-15 17:13:51] RequestAppInfoUpdate: AppIDs 7
+[2024-08-15 17:13:52] Change number 24801421->24801441, apps: 0/19, packages: 0/2
+[2024-08-15 17:13:52] Requesting 78 apps, 0 packages (meta data, 1024 prev attempts, expected 3 KB)
+[2024-08-15 17:13:52] Requested 77 app access tokens, 0 received, 77 denied
+[2024-08-15 17:13:52] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2024-08-15 17:13:52] RequestAppInfoUpdate: AppIDs 573090
+[2024-08-15 17:13:52] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2024-08-15 17:13:53] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)

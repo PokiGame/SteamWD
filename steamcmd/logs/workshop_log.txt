@@ -1,0 +1,109 @@
+
+
+[2024-08-15 16:37:14] Client version: 1721172922
+[2024-08-15 16:37:14] Loading workshop items for 0 installed apps for user [a:1:1500453280]:
+[2024-08-15 16:37:23] [AppID 573090] Loaded workshop items in "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop" (0 installed, 0 needed)
+[2024-08-15 16:37:23] [AppID 573090] Download item 1800753475 requested by app
+[2024-08-15 16:37:23] [AppID 573090] Starting Workshop download job (requested item 1800753475 )
+[2024-08-15 16:37:24] [AppID 573090] Detected workshop change (latest from server) : changed cached item 1800753475, new manifest 3332640393217921284
+[2024-08-15 16:37:26] [AppID 573090] Download item 1800753475 result : OK
+[2024-08-15 16:37:26] [AppID 573090] Finished Workshop download job : No Error
+[2024-08-15 16:37:27] [AppID 573090] Updating workshop item details failed with Failure
+
+
+[2024-08-15 16:46:11] Client version: 1721172922
+[2024-08-15 16:46:11] Loading workshop items for 0 installed apps for user [a:1:3461041468]:
+[2024-08-15 16:46:13] [AppID 573090] Loaded workshop items in "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop" (1 installed, 1 needed)
+[2024-08-15 16:46:13] [AppID 573090] Download item 1800753475 requested by app
+[2024-08-15 16:46:13] [AppID 573090] Starting Workshop download job (requested item 1800753475 )
+[2024-08-15 16:46:14] [AppID 573090] Download item 1800753475 result : OK
+[2024-08-15 16:46:14] [AppID 573090] Finished Workshop download job : No Error
+[2024-08-15 16:46:14] [AppID 573090] Updating workshop item details failed with Failure
+
+
+[2024-08-15 16:52:36] Client version: 1721172922
+[2024-08-15 16:52:36] Loading workshop items for 0 installed apps for user [a:1:2800806290]:
+[2024-08-15 16:52:38] [AppID 573090] Loaded workshop items in "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop" (1 installed, 1 needed)
+[2024-08-15 16:52:38] [AppID 573090] Download item 1800753475 requested by app
+[2024-08-15 16:52:38] [AppID 573090] Starting Workshop download job (requested item 1800753475 )
+[2024-08-15 16:52:38] [AppID 573090] Download item 1800753475 result : OK
+[2024-08-15 16:52:38] [AppID 573090] Finished Workshop download job : No Error
+
+
+[2024-08-15 16:55:25] Client version: 1721172922
+[2024-08-15 16:55:25] Loading workshop items for 0 installed apps for user [a:1:2421977408]:
+[2024-08-15 16:55:27] [AppID 573090] Loaded workshop items in "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop" (1 installed, 1 needed)
+[2024-08-15 16:55:27] [AppID 573090] Download item 1800753475 requested by app
+[2024-08-15 16:55:27] [AppID 573090] Starting Workshop download job (requested item 1800753475 )
+[2024-08-15 16:55:28] [AppID 573090] Download item 1800753475 result : OK
+[2024-08-15 16:55:28] [AppID 573090] Finished Workshop download job : No Error
+[2024-08-15 16:55:28] [AppID 573090] Updating workshop item details failed with Failure
+
+
+[2024-08-15 17:02:19] Client version: 1721172922
+[2024-08-15 17:02:19] Loading workshop items for 0 installed apps for user [a:1:1572382988]:
+[2024-08-15 17:02:20] [AppID 573090] Loaded workshop items in "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop" (1 installed, 1 needed)
+[2024-08-15 17:02:20] [AppID 573090] Download item 1800753475 requested by app
+[2024-08-15 17:02:20] [AppID 573090] Starting Workshop download job (requested item 1800753475 )
+[2024-08-15 17:02:21] [AppID 573090] Download item 1800753475 result : OK
+[2024-08-15 17:02:21] [AppID 573090] Finished Workshop download job : No Error
+[2024-08-15 17:02:21] [AppID 573090] Updating workshop item details failed with Failure
+
+
+[2024-08-15 17:04:49] Client version: 1721172922
+[2024-08-15 17:04:49] Loading workshop items for 0 installed apps for user [a:1:3875788137]:
+[2024-08-15 17:04:51] [AppID 573090] Loaded workshop items in "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop" (1 installed, 1 needed)
+[2024-08-15 17:04:51] [AppID 573090] Download item 1800753475 requested by app
+[2024-08-15 17:04:51] [AppID 573090] Starting Workshop download job (requested item 1800753475 )
+[2024-08-15 17:04:52] [AppID 573090] Download item 1800753475 result : OK
+[2024-08-15 17:04:52] [AppID 573090] Finished Workshop download job : No Error
+[2024-08-15 17:04:52] [AppID 573090] Updating workshop item details failed with Failure
+
+
+[2024-08-15 17:06:37] Client version: 1721172922
+[2024-08-15 17:06:37] Loading workshop items for 0 installed apps for user [a:1:1807883398]:
+[2024-08-15 17:06:39] [AppID 573090] Loaded workshop items in "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop" (1 installed, 1 needed)
+[2024-08-15 17:06:39] [AppID 573090] Download item 1800753475 requested by app
+[2024-08-15 17:06:39] [AppID 573090] Starting Workshop download job (requested item 1800753475 )
+[2024-08-15 17:06:40] [AppID 573090] Download item 1800753475 result : OK
+[2024-08-15 17:06:40] [AppID 573090] Finished Workshop download job : No Error
+[2024-08-15 17:06:40] [AppID 573090] Updating workshop item details failed with Failure
+
+
+[2024-08-15 17:08:23] Client version: 1721172922
+[2024-08-15 17:08:23] Loading workshop items for 0 installed apps for user [a:1:1495617923]:
+[2024-08-15 17:08:25] [AppID 573090] Loaded workshop items in "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop" (1 installed, 1 needed)
+[2024-08-15 17:08:25] [AppID 573090] Download item 1800753475 requested by app
+[2024-08-15 17:08:25] [AppID 573090] Starting Workshop download job (requested item 1800753475 )
+[2024-08-15 17:08:25] [AppID 573090] Download item 1800753475 result : OK
+[2024-08-15 17:08:25] [AppID 573090] Finished Workshop download job : No Error
+
+
+[2024-08-15 17:09:37] Client version: 1721172922
+[2024-08-15 17:09:37] Loading workshop items for 0 installed apps for user [a:1:2401774800]:
+[2024-08-15 17:09:38] [AppID 573090] Loaded workshop items in "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop" (1 installed, 1 needed)
+[2024-08-15 17:09:38] [AppID 573090] Download item 1800753475 requested by app
+[2024-08-15 17:09:38] [AppID 573090] Starting Workshop download job (requested item 1800753475 )
+[2024-08-15 17:09:39] [AppID 573090] Download item 1800753475 result : OK
+[2024-08-15 17:09:39] [AppID 573090] Finished Workshop download job : No Error
+[2024-08-15 17:09:39] [AppID 573090] Updating workshop item details failed with Failure
+
+
+[2024-08-15 17:12:13] Client version: 1721172922
+[2024-08-15 17:12:13] Loading workshop items for 0 installed apps for user [a:1:3379357951]:
+[2024-08-15 17:12:14] [AppID 573090] Loaded workshop items in "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop" (1 installed, 1 needed)
+[2024-08-15 17:12:14] [AppID 573090] Download item 1800753475 requested by app
+[2024-08-15 17:12:14] [AppID 573090] Starting Workshop download job (requested item 1800753475 )
+[2024-08-15 17:12:15] [AppID 573090] Download item 1800753475 result : OK
+[2024-08-15 17:12:15] [AppID 573090] Finished Workshop download job : No Error
+[2024-08-15 17:12:15] [AppID 573090] Updating workshop item details failed with Failure
+
+
+[2024-08-15 17:13:51] Client version: 1721172922
+[2024-08-15 17:13:51] Loading workshop items for 0 installed apps for user [a:1:2447808602]:
+[2024-08-15 17:13:53] [AppID 573090] Loaded workshop items in "H:\Python Programs\steamworkshopdownloader-master\steamcmd\steamapps\workshop" (1 installed, 1 needed)
+[2024-08-15 17:13:53] [AppID 573090] Download item 1800753475 requested by app
+[2024-08-15 17:13:53] [AppID 573090] Starting Workshop download job (requested item 1800753475 )
+[2024-08-15 17:13:54] [AppID 573090] Download item 1800753475 result : OK
+[2024-08-15 17:13:54] [AppID 573090] Finished Workshop download job : No Error
+[2024-08-15 17:13:54] [AppID 573090] Updating workshop item details failed with Failure
