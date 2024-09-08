@@ -186,16 +186,30 @@ def download():
                                                  fallback=defaultpath and os.path.join(defaultpath, str(appid))))
                     src_path = modpath(steampath, appid, wid)
                     if os.path.exists(src_path):
-                        log(f"Moving files from {name}...", 0, 0)
+                        log(f"Downloading Item {name}", 0, 0)
 
                         if not os.path.exists(path):
                             os.makedirs(path)
+                        directory = ""
 
                         for root, dirs, files in os.walk(src_path):
                             for file in files:
+                                if file == "vehicle.xml":
+                                    directory = "/vehicles"
+                                if file == "microcontroller.xml":
+                                    directory = "/microprocessors"
+
+
+
+                            path += directory
+                            for file in files:
                                 src_file = os.path.join(root, file)
+
                                 if file == "vehicle.xml":
                                     dest_file = os.path.join(path, f"{name}.xml")
+                                elif file == "microcontroller.xml":
+                                    dest_file = os.path.join(path, f"{name}.xml")
+
                                 elif file == "workshop_preview.png":
                                     dest_file = os.path.join(path, f"{name}.png")
                                 else:
@@ -203,9 +217,7 @@ def download():
 
                                 if os.path.exists(dest_file):
                                     os.remove(dest_file)
-
                                 shutil.move(src_file, dest_file)
-
                         shutil.rmtree(src_path)
                         log(" DONE")
                     pc[appid] = path
@@ -218,6 +230,23 @@ def download():
         button1.state = tk.NORMAL
         running = False
 
+def get_user_data_path():
+    appdata_path = os.getenv('APPDATA')  # Get the AppData path
+    if not appdata_path:
+        raise EnvironmentError("APPDATA environment variable not found.")
+    return os.path.join(appdata_path, 'Stormworks', 'data')
+
+def update_config_with_path(path):
+    cfg = configparser.ConfigParser(interpolation=None)
+    if os.path.exists('downloader.ini'):
+        cfg.read('downloader.ini')
+    else:
+        cfg['573090'] = {'theme': 'default', 'steampath': 'steamcmd', 'batchsize': '50', 'showConsole': 'no', 'defaultpath': 'mods', 'steamguard': 'yes'}
+
+    cfg['573090']['path'] = path
+
+    with open('downloader.ini', 'w') as configfile:
+        cfg.write(configfile)
 
 def main():
     global cfg
@@ -237,6 +266,9 @@ def main():
 
     cfg = configparser.ConfigParser(interpolation=None)
     cfg.read('downloader.ini')
+
+
+
     # validate ini
     if 'general' not in cfg:
         cfg['general']={'theme': 'default', 'steampath': 'steamcmd', 'batchsize': '50', 'showConsole': 'no', 'defaultpath': 'mods', 'steamguard': 'yes'}
@@ -301,6 +333,12 @@ def main():
         bg2=None
         textcol=None
 
+    user_path = get_user_data_path()
+
+    # Update the configuration file with the new path
+    update_config_with_path(user_path)
+
+
     # create UI
     root = tk.Tk()
     root['bg'] = bg1
@@ -330,6 +368,7 @@ def main():
         SGinput.pack(padx=padx, pady=pady, side=tk.LEFT, expand=1, fill=tk.X)
 
     root.mainloop()
+
 
     if not os.path.exists('downloader.ini'): # remove this when in-app options menu exists
         with open('downloader.ini', 'w') as file:
