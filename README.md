@@ -1,8 +1,11 @@
+# Achtung
+This program will nit fully writen by me, i used a ready product and added some things needed for me
+Original program: https://github.com/shadoxxhd/steamworkshopdownloader
+
 # Steam Workshop Downloader
 
 Simple steam workshop downloader using steamcmd.
 
-List of supported games for anonymous download: https://steamdb.info/sub/17906/apps/
 
 ___
 
