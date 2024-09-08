@@ -1,5 +1,5 @@
 # Achtung
-This program will nit fully writen by me, i used a ready product and added some things needed for me
+This program will not fully writen by me, i used a ready product and added some things needed for me
 Original program: https://github.com/shadoxxhd/steamworkshopdownloader
 
 # Steam Workshop Downloader
